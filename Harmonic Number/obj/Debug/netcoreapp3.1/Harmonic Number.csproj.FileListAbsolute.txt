@@ -1,0 +1,13 @@
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.exe
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.deps.json
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.runtimeconfig.json
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.runtimeconfig.dev.json
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.csproj.AssemblyReference.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.AssemblyInfoInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.AssemblyInfo.cs
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.genruntimeconfig.cache

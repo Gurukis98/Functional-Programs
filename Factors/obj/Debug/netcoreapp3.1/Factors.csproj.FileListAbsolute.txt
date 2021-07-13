@@ -1,0 +1,13 @@
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\bin\Debug\netcoreapp3.1\Factors.exe
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\bin\Debug\netcoreapp3.1\Factors.deps.json
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\bin\Debug\netcoreapp3.1\Factors.runtimeconfig.json
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\bin\Debug\netcoreapp3.1\Factors.runtimeconfig.dev.json
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\bin\Debug\netcoreapp3.1\Factors.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\bin\Debug\netcoreapp3.1\Factors.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\obj\Debug\netcoreapp3.1\Factors.csproj.AssemblyReference.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\obj\Debug\netcoreapp3.1\Factors.AssemblyInfoInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\obj\Debug\netcoreapp3.1\Factors.AssemblyInfo.cs
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\obj\Debug\netcoreapp3.1\Factors.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\obj\Debug\netcoreapp3.1\Factors.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\obj\Debug\netcoreapp3.1\Factors.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Factors\obj\Debug\netcoreapp3.1\Factors.genruntimeconfig.cache

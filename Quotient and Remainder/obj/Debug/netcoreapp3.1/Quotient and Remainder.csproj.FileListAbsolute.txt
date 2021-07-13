@@ -1,0 +1,13 @@
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.exe
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.deps.json
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.runtimeconfig.json
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.runtimeconfig.dev.json
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\bin\Debug\netcoreapp3.1\Quotient and Remainder.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.csproj.AssemblyReference.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.AssemblyInfoInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.AssemblyInfo.cs
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Quotient and Remainder\obj\Debug\netcoreapp3.1\Quotient and Remainder.genruntimeconfig.cache

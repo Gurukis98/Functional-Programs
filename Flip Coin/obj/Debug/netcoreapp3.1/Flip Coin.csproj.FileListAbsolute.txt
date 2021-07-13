@@ -1,0 +1,13 @@
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\bin\Debug\netcoreapp3.1\Flip Coin.exe
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\bin\Debug\netcoreapp3.1\Flip Coin.deps.json
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\bin\Debug\netcoreapp3.1\Flip Coin.runtimeconfig.json
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\bin\Debug\netcoreapp3.1\Flip Coin.runtimeconfig.dev.json
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\bin\Debug\netcoreapp3.1\Flip Coin.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\bin\Debug\netcoreapp3.1\Flip Coin.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\obj\Debug\netcoreapp3.1\Flip Coin.csproj.AssemblyReference.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\obj\Debug\netcoreapp3.1\Flip Coin.AssemblyInfoInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\obj\Debug\netcoreapp3.1\Flip Coin.AssemblyInfo.cs
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\obj\Debug\netcoreapp3.1\Flip Coin.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\obj\Debug\netcoreapp3.1\Flip Coin.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\obj\Debug\netcoreapp3.1\Flip Coin.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Flip Coin\obj\Debug\netcoreapp3.1\Flip Coin.genruntimeconfig.cache

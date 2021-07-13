@@ -1,0 +1,13 @@
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\bin\Debug\netcoreapp3.1\Largest Among Three Numbers.exe
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\bin\Debug\netcoreapp3.1\Largest Among Three Numbers.deps.json
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\bin\Debug\netcoreapp3.1\Largest Among Three Numbers.runtimeconfig.json
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\bin\Debug\netcoreapp3.1\Largest Among Three Numbers.runtimeconfig.dev.json
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\bin\Debug\netcoreapp3.1\Largest Among Three Numbers.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\bin\Debug\netcoreapp3.1\Largest Among Three Numbers.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\obj\Debug\netcoreapp3.1\Largest Among Three Numbers.csproj.AssemblyReference.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\obj\Debug\netcoreapp3.1\Largest Among Three Numbers.AssemblyInfoInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\obj\Debug\netcoreapp3.1\Largest Among Three Numbers.AssemblyInfo.cs
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\obj\Debug\netcoreapp3.1\Largest Among Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\obj\Debug\netcoreapp3.1\Largest Among Three Numbers.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\obj\Debug\netcoreapp3.1\Largest Among Three Numbers.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Largest Among Three Numbers\obj\Debug\netcoreapp3.1\Largest Among Three Numbers.genruntimeconfig.cache

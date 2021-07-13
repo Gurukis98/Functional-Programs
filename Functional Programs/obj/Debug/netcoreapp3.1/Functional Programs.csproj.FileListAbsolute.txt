@@ -1,0 +1,13 @@
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\bin\Debug\netcoreapp3.1\Functional Programs.exe
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\bin\Debug\netcoreapp3.1\Functional Programs.deps.json
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\bin\Debug\netcoreapp3.1\Functional Programs.runtimeconfig.json
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\bin\Debug\netcoreapp3.1\Functional Programs.runtimeconfig.dev.json
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\bin\Debug\netcoreapp3.1\Functional Programs.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\bin\Debug\netcoreapp3.1\Functional Programs.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\obj\Debug\netcoreapp3.1\Functional Programs.csproj.AssemblyReference.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\obj\Debug\netcoreapp3.1\Functional Programs.AssemblyInfoInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\obj\Debug\netcoreapp3.1\Functional Programs.AssemblyInfo.cs
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\obj\Debug\netcoreapp3.1\Functional Programs.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\obj\Debug\netcoreapp3.1\Functional Programs.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\obj\Debug\netcoreapp3.1\Functional Programs.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Functional Programs\obj\Debug\netcoreapp3.1\Functional Programs.genruntimeconfig.cache

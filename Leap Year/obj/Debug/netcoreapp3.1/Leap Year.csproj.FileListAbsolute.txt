@@ -1,0 +1,13 @@
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\bin\Debug\netcoreapp3.1\Leap Year.exe
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\bin\Debug\netcoreapp3.1\Leap Year.deps.json
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\bin\Debug\netcoreapp3.1\Leap Year.runtimeconfig.json
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\bin\Debug\netcoreapp3.1\Leap Year.runtimeconfig.dev.json
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\bin\Debug\netcoreapp3.1\Leap Year.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\bin\Debug\netcoreapp3.1\Leap Year.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\obj\Debug\netcoreapp3.1\Leap Year.csproj.AssemblyReference.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\obj\Debug\netcoreapp3.1\Leap Year.AssemblyInfoInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\obj\Debug\netcoreapp3.1\Leap Year.AssemblyInfo.cs
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\obj\Debug\netcoreapp3.1\Leap Year.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\obj\Debug\netcoreapp3.1\Leap Year.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\obj\Debug\netcoreapp3.1\Leap Year.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Leap Year\obj\Debug\netcoreapp3.1\Leap Year.genruntimeconfig.cache

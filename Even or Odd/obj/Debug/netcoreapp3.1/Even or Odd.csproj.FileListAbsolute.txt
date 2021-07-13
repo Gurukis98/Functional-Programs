@@ -1,0 +1,13 @@
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.exe
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.deps.json
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.runtimeconfig.json
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.runtimeconfig.dev.json
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.csproj.AssemblyReference.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.AssemblyInfoInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.AssemblyInfo.cs
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.dll
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.pdb
+C:\Users\kisho\Functional Programs\Functional Programs\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.genruntimeconfig.cache

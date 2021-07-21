@@ -15,7 +15,7 @@ namespace Even_or_Odd
             }
             else
             {
-                Console.WriteLine(n + " is an Odd Number");
+                Console.WriteLine(n + " is an Odd Number.");
             }
         }
     }

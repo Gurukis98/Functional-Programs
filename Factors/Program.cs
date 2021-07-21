@@ -31,7 +31,7 @@ namespace Factors
                 }
             }
             if (flag == 0)
-                Console.WriteLine("There is no Prime factor for {0} ", num);
+                Console.WriteLine("There is no Prime factor for. {0} ", num);
         }
     }
 }

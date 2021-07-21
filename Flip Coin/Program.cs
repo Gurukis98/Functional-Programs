@@ -24,7 +24,7 @@ namespace Flip_Coin
                 }
                 else if (coin == 0)
                 {
-                    Console.WriteLine("Heads");
+                    Console.WriteLine("Heads.");
                     heads = heads + 1;
                     count = count + 1;
                 }

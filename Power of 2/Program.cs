@@ -16,7 +16,7 @@ namespace Power_of_2
             }
             else
             {
-                Console.WriteLine("Not a Leap Year = " + x);
+                Console.WriteLine("Not a Leap Year. = " + x);
             }
         }
     }

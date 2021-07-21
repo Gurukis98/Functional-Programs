@@ -13,7 +13,7 @@ namespace Harmonic_Number
                 b = b + 1 / a;  
             {
                 Console.WriteLine(b);
-                Console.WriteLine("Harmonic Number = " + b);
+                Console.WriteLine("Harmonic number = " + b);
             }
        }
    }

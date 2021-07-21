@@ -27,7 +27,7 @@ namespace Largest_Among_Three_Numbers
             }
             else
             {
-                Console.Write("The 3rd Number is the greatest among three = " + num3);
+                Console.Write("The 3rd Number is the greatest among three= " + num3);
             }
        }
    }

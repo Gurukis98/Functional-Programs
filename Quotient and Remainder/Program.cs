@@ -10,8 +10,8 @@ namespace Quotient_and_Remainder
             int divisor = 8;
             int quotient = divident / divisor;
             int remainder = divident % divisor;
-            Console.WriteLine("Quotient = " + quotient);
-            Console.WriteLine("Remainder = " + remainder);
+            Console.WriteLine("Quotient= " + quotient);
+            Console.WriteLine("Remainder= " + remainder);
        }
    }
 }

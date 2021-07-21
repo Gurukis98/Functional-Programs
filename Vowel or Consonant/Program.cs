@@ -17,7 +17,7 @@ namespace Vowel_or_Consonant
             }
             else 
             {
-                Console.WriteLine(ch + " is Consonant");
+                Console.WriteLine(ch + " is Consonant.");
             }
        }
    }

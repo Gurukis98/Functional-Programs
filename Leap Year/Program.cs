@@ -16,7 +16,7 @@ namespace Leap_Year
             }
             else
             {
-                Console.WriteLine("Not a Leap Year = " + x);
+                Console.WriteLine("Not a Leap Year. = " + x);
             }
         }
     }
